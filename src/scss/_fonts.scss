@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../resources/fonts/Roboto.woff") format("woff"),
+       url("../resources/fonts/Roboto.woff2") format("woff2"),
+       url("../resources/fonts/Roboto.ttf") format("ttf"),
+       url("../resources/fonts/Roboto.svg") format("svg");
+  font-display: swap;
+}

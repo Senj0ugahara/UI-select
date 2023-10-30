@@ -1,0 +1,8 @@
+// Базовые подключения
+@import "fonts";
+@import "settings";
+@import "vars";
+
+// Подключения UI компонентов
+@import "./components/UI/select";
+@import "./components/UI/input";
